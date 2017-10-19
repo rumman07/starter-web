@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rumman Ahmed   rumman@example.com   @gittraining
 
 # THANKS
 
