@@ -3,6 +3,7 @@
 This is a simple website project for showing how to use Git and Github together. Emergency change after stashing
 
 ## Introduction
+some changes
 
 This is example is to show different parts of the Git repository and various commands using a web project.
 Adding a oneliner for rebasing example. More changes from myfeature branch too 
